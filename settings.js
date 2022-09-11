@@ -11,8 +11,29 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `┏𝗛𝗶 𝗜𝗺 𝗔𝗹𝗶𝘃𝗲 . . . !
+│𝐑𝐔𝐍 𝐓𝐈𝐌𝐄 : 99:999
+▄▅▆▇𝙋𝙍𝙊𝙂 𝙀𝙕𝙄𝙊▇▅▄
+│Oғғ Tʜᴇ Kɪɴɢ ᴡᴀ,,,
+│𝗜𝗺 𝗧𝗵𝗲 𝗥𝗲𝗱 𝗱𝗿𝗮𝗴𝗼𝗻
+│----------------
+│𝐎𝐖𝐍𝐄𝐑 ; 𝗘𝗭𝗜𝗢
+│
+│𝐎𝐖𝐍𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑 ;
+│wa.me/989935689926
+│𝐇𝐎𝐒𝐓 𝐍𝐀𝐌𝐄 ;
+│× × ×
+│𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 ;
+│LINUX / NODE.JS
+│𝐇𝐄𝐋𝐏 ; .menu 
+│𝐌𝐎𝐃𝐄 ;
+│𝐏𝐑𝐎𝐆𝐑𝐀𝐌 ;
+│
+│𝐆𝐆 𝐅𝐀𝐒𝐓𝐄𝐑 ;
+│
+│𝗙𝗥𝗢𝗠 +989935689926
+│
+┗────𝗕𝗬 𝗘𝗭𝗜𝗢` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,11 +50,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['989935689926'] // owner number
+global.ownername = "𝗨𝗦.𝗘𝗭𝗜𝗢" // owner name
+global.ytname = "𝗡𝗢 𝗨𝗥𝗟" // yt chanel name
+global.socialm = "GitHub: 𝗡𝗢 𝗨𝗥𝗟" // github or insta name
+global.location = "𝗡𝗢 𝗜𝗣" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +68,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['989935689926']
+global.ownertag = '989935689926' //your tag number
+global.botname = '𝙈𝙆 𝙀𝙕𝙄𝙊 - 𝘉𝘖𝘛 𝘞𝘈' //ur bot name
+global.packname = "𝗘𝗭𝗜𝗢 |𝗠 𝗭|𝗛𝗔𝗖𝗞" // sticker packname
+global.author = "‌" // sticker author
+global.dragonemoji = '☄️' // Menu emoji
+global.footer = '[ 𝗘𝗭𝗜𝗢 - 𝗕𝗢𝗧 - 𝗦𝗚 ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['989935689926'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
